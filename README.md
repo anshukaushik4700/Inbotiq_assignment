@@ -3,8 +3,8 @@
 Created a web application with role-based signup/login and role-specific dashboards
 
 ## 🌐 Live Demo
-- **Frontend:** [https://inbotiq-frontend.vercel.app](#)
-- **Backend:** [https://inbotiq-backend.onrender.com](#)
+- **Frontend:** (https://inbotiq-frontend.vercel.app)
+- **Backend:** (https://inbotiq-backend.onrender.com)
 
 ## Features Added
 
